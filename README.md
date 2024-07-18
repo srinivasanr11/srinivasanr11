@@ -1,5 +1,7 @@
 # Hi there, I'm SRINIVASAN R 👋!
 
+Dive into my world of code, where creativity and consistency blend seamlessly to craft solutions.
+
 ## About Me
 
 - 👨‍💻 I'm a B.Tech AI & Data Science student passionate about innovative problem-solving and technology.
