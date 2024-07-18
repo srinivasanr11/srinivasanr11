@@ -14,7 +14,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 - 💻 Python, Machine Learning, Deep Learning, Data Analysis, Artificial Intelligence
 - 🌐 HTML/CSS, JavaScript, Flask
-- 🛠️ Git,Linux.
+- 🛠️ Mtsql, Git, Linux.
 
 ## Interests
 
