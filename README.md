@@ -28,8 +28,7 @@
 ## Let's Connect!
 
 - LinkedIn: [SRINIVASAN R](https://www.linkedin.com/in/srinivasan-r-02766322a)
-- Instagram : [[_.rocky_srini._](https://www.instagram.com/.rocky_srini.?igsh=MWtxc2N4a3l3bTlrcw==)]
-- Email: [Mail](rockysrini70@gmail.com)
+- Email: [rockysrini@gmail.com](mailto:rockysrini70@gmail.com)
 
 ## Fun Fact
 
