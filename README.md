@@ -5,7 +5,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 ## About Me
 
 - 👨‍💻 I'm a B.Tech AI & Data Science student passionate about innovative problem-solving and technology.
-- 🌱 I'm currently learning and exploring various aspects of machine learning, Deep learning and artificial intelligence.
+- 🌱 I'm currently learning and exploring various aspects of Data Science, machine learning, Deep learning and artificial intelligence.
 - 💼 I'm actively seeking internships and opportunities to apply my skills in real-world projects.
 - 🎓 In my spare time, I enjoy working on personal projects that involve AI, data analysis, and web development.
 
