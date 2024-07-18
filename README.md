@@ -1,4 +1,4 @@
-# Hi there, I'm [SRINIVASAN R]! 👋
+# Hi there, I'm _SRINIVASAN_! 👋
 
 ## About Me
 
