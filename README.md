@@ -6,14 +6,9 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 - 👨‍💻 I'm a B.Tech AI & Data Science student passionate about innovative problem-solving and technology.
 - 🌱 I'm currently learning and exploring various aspects of Data Science, machine learning, Deep learning and artificial intelligence.
-- 💼 I'm actively seeking internships and opportunities to apply my skills in real-world projects.
+- 💼 I'm actively seeking opportunities to apply my skills in real-world projects.
 - 🎓 In my spare time, I enjoy working on personal projects that involve AI, data analysis, and web development.
 
-## Projects
-
-- 🚀 Recently, I've been working on [Project Name], where I [Briefly describe your project].
-- 🔭 I'm currently focusing on [Specific Goal or Project].
-- 🌟 Check out some of my projects [here](link to your projects repository).
 
 ## Skills
 
@@ -32,7 +27,4 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 - LinkedIn: [SRINIVASAN R](https://www.linkedin.com/in/srinivasan-r-02766322a)
 - Email: [rockysrini@gmail.com](mailto:rockysrini70@gmail.com)
 
-## Fun Fact
-
-- ⚡ Fun fact: [Your fun fact]
 
