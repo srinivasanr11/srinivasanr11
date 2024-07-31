@@ -20,8 +20,6 @@
 - 💼 ɪ'ᴍ ᴀᴄᴛɪᴠᴇʟʏ ꜱᴇᴇᴋɪɴɢ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ ᴛᴏ ᴀᴘᴘʟʏ ᴍʏ ꜱᴋɪʟʟꜱ ɪɴ ʀᴇᴀʟ-ᴡᴏʀʟᴅ ᴘʀᴏᴊᴇᴄᴛꜱ.
 - 🦾 ɪɴ ᴍʏ ꜱᴘᴀʀᴇ ᴛɪᴍᴇ, ɪ ᴇɴᴊᴏʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴘᴇʀꜱᴏɴᴀʟ ᴘʀᴏᴊᴇᴄᴛꜱ ᴛʜᴀᴛ ɪɴᴠᴏʟᴠᴇ ᴀɪ, ᴅᴀᴛᴀ ᴀɴᴀʟʏꜱɪꜱ, ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivasanr11&label=Profile%20views&color=0e75b6&style=flat" alt="Srinivasan" /> </p>
-
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30px">
 
