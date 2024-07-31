@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Book+Antiqua&size=30&pause=1000&color=1689F7&repeat=false&width=435&lines=Hi+there%2C+I'm+Srinivasan+R+%F0%9F%91%8B%F0%9F%8F%BC!" alt="Typing SVG" /></a>
 
 # AL & ML Developer <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30px" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivasanr11&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasanr11" /> </p>
 
 𝑫𝒊𝒗𝒆 𝒊𝒏𝒕𝒐 𝒎𝒚 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒄𝒐𝒅𝒆, 𝒘𝒉𝒆𝒓𝒆 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚 𝒂𝒏𝒅 𝒄𝒐𝒏𝒔𝒊𝒔𝒕𝒆𝒏𝒄𝒚 𝒃𝒍𝒆𝒏𝒅 𝒔𝒆𝒂𝒎𝒍𝒆𝒔𝒔𝒍𝒚 𝒕𝒐 𝒄𝒓𝒂𝒇𝒕 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔.
 
