@@ -10,7 +10,7 @@
 
 𝐃𝐢𝐯𝐞 𝐢𝐧𝐭𝐨 𝐦𝐲 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐜𝐨𝐝𝐞, 𝐰𝐡𝐞𝐫𝐞 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲 𝐚𝐧𝐝 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐲 𝐛𝐥𝐞𝐧𝐝 𝐬𝐞𝐚𝐦𝐥𝐞𝐬𝐬𝐥𝐲 𝐭𝐨 𝐜𝐫𝐚𝐟𝐭 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬.
 
-# About<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" alt="Collision" width="25" height="25" />
+# About <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" alt="Collision" width="30" height="30" />
 
 ---
 
