@@ -2,9 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5">
 <br><br>
 
-<a href="https://readme-typing-svg.herokuapp.com?font=Book+Antiqua&weight=4000&size=30&pause=1000&color=777777&random=true&width=450&height=60&lines=Hi+there%2C+I'm+Srinivasan+R+%F0%9F%91%8B!
-" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Book+Antiqua&size=30&pause=1000&color=1689F7&repeat=false&width=435&lines=Hi+there%2C+I'm+Srinivasan+R+%F0%9F%91%8B%F0%9F%8F%BC!" alt="Typing SVG" /></a>
 
 # AL & ML Developer <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30px" />
 
