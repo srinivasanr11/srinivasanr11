@@ -3,7 +3,8 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Book+Antiqua&weight=4000&size=30&pause=1000&color=F7F7F7&random=true&width=450&height=60&lines=Hi+there%2C+I'm+Srinivasan+R+%F0%9F%91%8B!" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.herokuapp.com?font=Book+Antiqua&weight=4000&size=30&pause=1000&color=F7F7F7&random=true&width=450&height=60&lines=Hi+there%2C+I'm+Srinivasan+R+%F0%9F%91%8B!](https://readme-typing-svg.herokuapp.com?font=Book+Antiqua&weight=4000&size=30&pause=1000&color=777777&random=true&width=450&height=60&lines=Hi+there%2C+I'm+Srinivasan+R+%F0%9F%91%8B!
+)" alt="Typing SVG" />
 </a>
 
 # AL & ML Developer <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30px" />
@@ -16,7 +17,7 @@
 
 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝑩.𝑻𝒆𝒄𝒉 𝑨𝑰 & 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒌𝒏𝒂𝒄𝒌 𝒇𝒐𝒓 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒃𝒍𝒆𝒎-𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒂𝒏𝒅 𝒂 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒂𝒑𝒑𝒓𝒐𝒂𝒄𝒉 𝒕𝒐 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚. 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒊𝒏 𝑷𝒚𝒕𝒉𝒐𝒏 𝒂𝒏𝒅 𝒎𝒂𝒄𝒉𝒊𝒏𝒆 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒅𝒆𝒑𝒕 𝒂𝒕 𝒄𝒓𝒂𝒇𝒕𝒊𝒏𝒈 𝒅𝒂𝒕𝒂-𝒅𝒓𝒊𝒗𝒆𝒏 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒕𝒉𝒂𝒕 𝒑𝒖𝒔𝒉 𝒃𝒐𝒖𝒏𝒅𝒂𝒓𝒊𝒆𝒔 𝒂𝒏𝒅 𝒎𝒆𝒓𝒈𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒘𝒊𝒕𝒉 𝒉𝒖𝒎𝒂𝒏 𝒊𝒏𝒈𝒆𝒏𝒖𝒊𝒕𝒚. 𝑬𝒂𝒈𝒆𝒓 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆, 𝒊𝒏𝒏𝒐𝒗𝒂𝒕𝒆, 𝒂𝒏𝒅 𝒕𝒓𝒂𝒏𝒔𝒇𝒐𝒓𝒎 𝒊𝒅𝒆𝒂𝒔 𝒊𝒏𝒕𝒐 𝒓𝒆𝒂𝒍𝒊𝒕𝒚 𝒊𝒏 𝒕𝒉𝒆 𝒅𝒚𝒏𝒂𝒎𝒊𝒄 𝒓𝒆𝒂𝒍𝒎 𝒐𝒇 𝑨𝑰 & 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆. 𝑳𝒆𝒕'𝒔 𝒄𝒐𝒏𝒏𝒆𝒄𝒕 𝒂𝒏𝒅 𝒆𝒎𝒃𝒂𝒓𝒌 𝒐𝒏 𝒂 𝒕𝒆𝒄𝒉 𝒂𝒅𝒗𝒆𝒏𝒕𝒖𝒓𝒆 𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓!
 
--🌱 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒗𝒂𝒓𝒊𝒐𝒖𝒔 𝒂𝒔𝒑𝒆𝒄𝒕𝒔 𝒐𝒇 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆, 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒏𝒅 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆.
+- 🌱 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝒗𝒂𝒓𝒊𝒐𝒖𝒔 𝒂𝒔𝒑𝒆𝒄𝒕𝒔 𝒐𝒇 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆, 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝒂𝒏𝒅 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆.
 
 - 💼 𝑰'𝒎 𝒂𝒄𝒕𝒊𝒗𝒆𝒍𝒚 𝒔𝒆𝒆𝒌𝒊𝒏𝒈 𝒐𝒑𝒑𝒐𝒓𝒕𝒖𝒏𝒊𝒕𝒊𝒆𝒔 𝒕𝒐 𝒂𝒑𝒑𝒍𝒚 𝒎𝒚 𝒔𝒌𝒊𝒍𝒍𝒔 𝒊𝒏 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
