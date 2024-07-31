@@ -110,9 +110,9 @@
 
 <p align="center">
   <div style="display: flex; justify-content: center;">
-    <img width="500" height="200" src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats">
+    <img width="400" height="200" src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasanr11&size_weight=0.0005&count_weight=0.3&layout=compact&theme=github_light" alt="Top Languages">
-    <img width='500' height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="Srinivasan ">
+    <img width='400' height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="Srinivasan ">
   </div>
 </p>>
     
