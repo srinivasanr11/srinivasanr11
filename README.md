@@ -14,8 +14,7 @@
 
 ---
 
-𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐁.𝐓𝐞𝐜𝐡 𝐀𝐈 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐚 𝐤𝐧𝐚𝐜𝐤 𝐟𝐨𝐫 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐧𝐝 𝐚 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡 𝐭𝐨 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲. 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐚𝐝𝐞𝐩𝐭 𝐚𝐭 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐝𝐚𝐭𝐚-𝐝𝐫𝐢𝐯𝐞𝐧 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐚𝐭 𝐩𝐮𝐬𝐡 𝐛𝐨𝐮𝐧𝐝𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐦𝐞𝐫𝐠𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐰𝐢𝐭𝐡 𝐡𝐮𝐦𝐚𝐧 𝐢𝐧𝐠𝐞𝐧𝐮𝐢𝐭𝐲. 𝐄𝐚𝐠𝐞𝐫 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞, 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐞, 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐢𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐫𝐞𝐚𝐥𝐢𝐭𝐲 𝐢𝐧 𝐭𝐡𝐞 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐫𝐞𝐚𝐥𝐦 𝐨𝐟 𝐀𝐈 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞. 𝐋𝐞𝐭'𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐧𝐝 𝐞𝐦𝐛𝐚𝐫𝐤 𝐨𝐧 𝐚 𝐭𝐞𝐜𝐡 𝐚𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫.
-
+Passionate B.Tech AI & Data Science student with a knack for innovative problem-solving and a creative approach to technology. Proficient in Python and machine learning, adept at crafting data-driven solutions that push boundaries and merge technology with human ingenuity. Eager to collaborate, innovate, and transform ideas into reality in the dynamic realm of AI & Data Science. Let's connect and embark on a tech adventure together!
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴇxᴘʟᴏʀɪɴɢ ᴠᴀʀɪᴏᴜꜱ ᴀꜱᴘᴇᴄᴛꜱ ᴏꜰ ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ, ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ, ᴅᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ.
 - 💼 ɪ'ᴍ ᴀᴄᴛɪᴠᴇʟʏ ꜱᴇᴇᴋɪɴɢ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ ᴛᴏ ᴀᴘᴘʟʏ ᴍʏ ꜱᴋɪʟʟꜱ ɪɴ ʀᴇᴀʟ-ᴡᴏʀʟᴅ ᴘʀᴏᴊᴇᴄᴛꜱ.
 - 🦾 ɪɴ ᴍʏ ꜱᴘᴀʀᴇ ᴛɪᴍᴇ, ɪ ᴇɴᴊᴏʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴘᴇʀꜱᴏɴᴀʟ ᴘʀᴏᴊᴇᴄᴛꜱ ᴛʜᴀᴛ ɪɴᴠᴏʟᴠᴇ ᴀɪ, ᴅᴀᴛᴀ ᴀɴᴀʟʏꜱɪꜱ, ᴀɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
