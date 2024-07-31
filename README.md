@@ -114,6 +114,8 @@
   </div>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="Srinivasan " /></p>
+
 <picture align="Center">
   <source
     media="(prefers-color-scheme: dark)"
