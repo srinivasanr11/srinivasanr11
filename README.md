@@ -108,9 +108,9 @@
 
 <p align="center">
     <a>
-        <img width="400" height="200" src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats"><br>
-        <img width="300" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasanr11&layout=compact" alt="Top Languages"><br>
-        <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="GitHub Streak"><br>
+        <img  src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats"><br>
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasanr11&layout=compact" alt="Top Languages"><br>
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="GitHub Streak"><br>
     </a>
 </p>
     
