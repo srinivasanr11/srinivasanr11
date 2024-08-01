@@ -32,7 +32,6 @@
       <th>CSS3</th>
       <th>Bootstrap</th>
       <th>JavaScript</th>
-      <th>ReactJS</th>
       <th>Figma</th>
       <th>Canva</th>
     </tr>
@@ -41,7 +40,6 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55" width="55";/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="55" width="55";/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55";/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" height="55" width="55";/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="55" width="55";/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" height="55" width="55";/></td>
     </tr>
@@ -109,11 +107,9 @@
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center;">
     <img width="400" height="200" src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats">
     <img width="300" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasanr11&layout=compact" alt="Top Languages">
     <img width='400' height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="Srinivasan ">
-  </div>
 </p>>
     
 
