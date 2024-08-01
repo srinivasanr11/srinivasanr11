@@ -106,12 +106,10 @@
 
 </p>
 
-<p align="center">
-    <a>
-        <img  src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats"><br>
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasanr11&layout=compact" alt="Top Languages"><br>
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="GitHub Streak"><br>
-    </a>
+<p align="left">
+        <img src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasanr11&layout=compact" alt="Top Languages"/><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="GitHub Streak"/><br>
 </p>
     
 
