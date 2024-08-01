@@ -1,6 +1,6 @@
 <a>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5">
+
 <br><br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Book+Antiqua&size=30&pause=1000&color=1689F7&repeat=false&width=435&lines=Hi+there%2C+I'm+Srinivasan+R+%F0%9F%91%8B%F0%9F%8F%BC!" alt="Typing SVG" /></a>
@@ -124,3 +124,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5">
