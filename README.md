@@ -113,9 +113,6 @@
         <img width='400' height='200'src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="GitHub Streak"/><br>
 </p>
 
- <a href="https://github.com/srinivasanr11"><img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivasanr11&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues,contribs" alt="srinivasanr11 GitHub stats" /></a> | <a href="https://github.com/srinivasanr11"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&layout=compact&theme=buefy&hide_border=true" /></a>
-    
-
 <picture align="Center">
   <source
     media="(prefers-color-scheme: dark)"
