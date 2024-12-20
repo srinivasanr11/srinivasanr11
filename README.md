@@ -11,6 +11,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/srinivasanr11?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/srinivasanr11?style=social)
 [![website](https://img.shields.io/badge/Portfolio-SRINIVASAN-brightgreen)](https://srinivasanr11.github.io/)
+![GitHub stars](https://img.shields.io/github/stars/srinivasanr11?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/srinivasanr11?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/srinivasanr11.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
 
 𝑫𝒊𝒗𝒆 𝒊𝒏𝒕𝒐 𝒎𝒚 𝒘𝒐𝒓𝒍𝒅 𝒐𝒇 𝒄𝒐𝒅𝒆, 𝒘𝒉𝒆𝒓𝒆 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚 𝒂𝒏𝒅 𝒄𝒐𝒏𝒔𝒊𝒔𝒕𝒆𝒏𝒄𝒚 𝒃𝒍𝒆𝒏𝒅 𝒔𝒆𝒂𝒎𝒍𝒆𝒔𝒔𝒍𝒚 𝒕𝒐 𝒄𝒓𝒂𝒇𝒕 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔.
