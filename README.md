@@ -10,7 +10,7 @@
                    
 ![GitHub followers](https://img.shields.io/github/followers/srinivasanr11?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/srinivasanr11?style=social)
-[![website](https://img.shields.io/badge/Portfolio-SRINIVASAN-brightgreen)](https://srinivasanr11.github.io/)
+[![website](https://img.shields.io/badge/Portfolio-SRINIVASAN-brightgreen)]([https://srinivasanr11.github.io/](https://srinivasan-portfolio-blond.vercel.app/))
 
 
 
