@@ -18,12 +18,81 @@
 </div>
 
 
-<div >
+<div align="center">
 
 # Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" alt="Collision" width="30" height="30" />
 
 ---
 
-As an engineer and AI/ML developer, I’m passionate about building intelligent systems that solve pressing real-world problems. I’m passionate about Python, machine learning, deep learning, and data science, with a focus on developing and enhancing AI-driven solutions that elevate productivity and decision-making. I thrive in collaborative environments where I can contribute ideas, design innovative solutions, and drive their implementation. My mission is to harness creativity and cutting-edge technology to transform visionary concepts into scalable AI applications.
+As an AI/ML developer, I’m passionate about creating intelligent systems that solve real-world problems. Skilled in Python, machine learning, and deep learning, I focus on building AI solutions that boost productivity and decision-making. I thrive in collaborative settings where I can innovate and implement scalable AI applications.
 
 </div>
+
+<div align="center">
+ 
+# Skills 
+
+<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
+  <tr align="center">
+    <th>HTML</th>
+    <th>CSS3</th>
+    <th>JavaScript</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="55" width="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55" /></td>
+  </tr>
+</table>
+
+<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
+  <tr align="center">
+    <th>TensorFlow</th>
+    <th>Keras</th>
+    <th>Numpy</th>
+    <th>Pandas</th>
+    <th>Matplotlib</th>
+    <th>MySQL</th>
+    <th>LLMs</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" /></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" title="LLMs" alt="LLMs" width="55" height="55" /></td>
+  </tr>
+</table>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr align="center">
+    <th>Python</th>
+    <th>Flask</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55" /></td>
+  </tr>
+</table>
+
+</div>
+
+
+<div align="center">
+
+# Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasanr07/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.rocky_srini._?igsh=MWtxc2N4a3l3bTlrcw==) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917010462247)
+
+</div>
+
+<p align="center">
+        <img width='400' height='200'src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats">
+        <img width='300' height='200'src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasanr11&layout=compact" alt="Top Languages"/><br>
+        <img width='400' height='200'src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="GitHub Streak"/><br>
+</p>
+
+
