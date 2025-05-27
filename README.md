@@ -29,22 +29,11 @@ As an AI/ML developer, I’m passionate about creating intelligent systems that 
 # Skills 
 </div>
 
-<div>
-<table style="width: 100 %; table-layout: fixed; margin-bottom: 1 rem;">
-  <tr align="center">
+<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem; text-align: center;">
+  <tr>
     <th>HTML</th>
     <th>CSS3</th>
     <th>JavaScript</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55" /></td>
-  </tr>
-</table>
-
-<table style="width: 100 %; table-layout: fixed; margin-bottom: 1 rem;">
-  <tr align="center">
     <th>TensorFlow</th>
     <th>Keras</th>
     <th>Numpy</th>
@@ -52,30 +41,25 @@ As an AI/ML developer, I’m passionate about creating intelligent systems that 
     <th>Matplotlib</th>
     <th>MySQL</th>
     <th>LLMs</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" /></td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" title="LLMs" alt="LLMs" width="55" height="55" /></td>
-  </tr>
-</table>
-
-<table style="width: 100 % ; table-layout: fixed;">
-  <tr align="center">
     <th>Python</th>
     <th>Flask</th>
   </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55" /></td>
+  <tr>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55" /></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" alt="LLMs" title="LLMs" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="55" height="55" /></td>
   </tr>
 </table>
 
-</div>
 
 
 <div align="center">
