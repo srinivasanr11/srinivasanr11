@@ -33,7 +33,7 @@ As an AI/ML developer, I’m passionate about creating intelligent systems that 
  
 # Skills 
 
-<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
+<table style="width: 100 %; table-layout: fixed; margin-bottom: 1 rem;">
   <tr align="center">
     <th>HTML</th>
     <th>CSS3</th>
@@ -46,7 +46,7 @@ As an AI/ML developer, I’m passionate about creating intelligent systems that 
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
+<table style="width: 100 %; table-layout: fixed; margin-bottom: 1 rem;">
   <tr align="center">
     <th>TensorFlow</th>
     <th>Keras</th>
@@ -67,7 +67,7 @@ As an AI/ML developer, I’m passionate about creating intelligent systems that 
   </tr>
 </table>
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100 % ; table-layout: fixed;">
   <tr align="center">
     <th>Python</th>
     <th>Flask</th>
@@ -85,7 +85,7 @@ As an AI/ML developer, I’m passionate about creating intelligent systems that 
 
 # Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasanr07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasanr11/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.rocky_srini._?igsh=MWtxc2N4a3l3bTlrcw==) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917010462247)
 
 </div>
@@ -93,7 +93,6 @@ As an AI/ML developer, I’m passionate about creating intelligent systems that 
 <p align="center">
         <img width='400' height='200'src="https://github-stats-alpha.vercel.app/api?username=srinivasanr11" alt="GitHub Stats">
         <img width='300' height='200'src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasanr11&layout=compact" alt="Top Languages"/><br>
-        <img width='400' height='200'src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasanr11&" alt="GitHub Streak"/><br>
 </p>
 
 
