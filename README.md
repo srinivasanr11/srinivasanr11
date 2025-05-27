@@ -29,7 +29,7 @@ As an AI/ML developer, I’m passionate about creating intelligent systems that 
 # Skills 
 </div>
 
-<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem; text-align: center;">
+<table style="width: 100 %; table-layout: fixed; margin-bottom: 1 rem; text-align: center;">
   <tr>
     <th>HTML</th>
     <th>CSS3</th>
