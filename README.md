@@ -21,13 +21,8 @@
 <div align="center" style="text-align: justify">
 
 # About
-
----
-
-As an AI/ML developer, I’m passionate about creating intelligent systems that solve real-world problems. Skilled in Python, machine learning, and deep learning, I focus on building AI solutions that boost productivity and decision-making. I thrive in collaborative settings where I can innovate and implement scalable AI applications.
-
 </div>
-
+As an AI/ML developer, I’m passionate about creating intelligent systems that solve real-world problems. Skilled in Python, machine learning, and deep learning, I focus on building AI solutions that boost productivity and decision-making. I thrive in collaborative settings where I can innovate and implement scalable AI applications.
 
 <div align="center">
  
