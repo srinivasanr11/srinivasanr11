@@ -18,7 +18,7 @@
 </div>
 
 
-<div align="center" style="text-align: justify; max-width: 600px; margin: auto;">
+<div align="center" style="text-align: justify; max-width: 600 px; margin: auto;">
 
 # About
 
