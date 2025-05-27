@@ -16,3 +16,14 @@
 [![website](https://img.shields.io/badge/Portfolio-SRINIVASAN-brightgreen)](https://srinivasan-portfolio-nu.vercel.app)
 
 </div>
+
+
+<div >
+
+# Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" alt="Collision" width="30" height="30" />
+
+---
+
+As an engineer and AI/ML developer, I’m passionate about building intelligent systems that solve pressing real-world problems. I’m passionate about Python, machine learning, deep learning, and data science, with a focus on developing and enhancing AI-driven solutions that elevate productivity and decision-making. I thrive in collaborative environments where I can contribute ideas, design innovative solutions, and drive their implementation. My mission is to harness creativity and cutting-edge technology to transform visionary concepts into scalable AI applications.
+
+</div>
