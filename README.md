@@ -18,15 +18,16 @@
 </div>
 
 
-<div align="center">
+<div align="center" style="text-align: justify; max-width: 600px; margin: auto;">
 
-# Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Collision.png" alt="Collision" width="30" height="30" />
+# About
 
 ---
 
 As an AI/ML developer, I’m passionate about creating intelligent systems that solve real-world problems. Skilled in Python, machine learning, and deep learning, I focus on building AI solutions that boost productivity and decision-making. I thrive in collaborative settings where I can innovate and implement scalable AI applications.
 
 </div>
+
 
 <div align="center">
  
