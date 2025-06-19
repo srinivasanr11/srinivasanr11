@@ -25,56 +25,56 @@
 
 
 <div align="center">
- 
-# Skills 
+  <h1>🚀 Tech Stack</h1>
 </div>
 
+<!-- Programming & AI/ML Libraries -->
 <table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
-  <tr align="center">
-    <th>HTML</th>
-    <th>CSS3</th>
-    <th>JavaScript</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="55" width="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55" /></td>
-  </tr>
-</table>
-
-<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
-  <tr align="center">
-    <th>TensorFlow</th>
-    <th>Keras</th>
-    <th>Numpy</th>
-    <th>Pandas</th>
-    <th>Matplotlib</th>
-    <th>MySQL</th>
-    <th>LLMs</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" /></td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" title="LLMs" alt="LLMs" width="55" height="55" /></td>
-  </tr>
-</table>
-
-<table style="width: 100%; table-layout: fixed;">
   <tr align="center">
     <th>Python</th>
-    <th>Flask</th>
+    <th>TensorFlow</th>
+    <th>Keras</th>
+    <th>OpenCV</th>
+    <th>PyTorch</th>
+    <th>Scikit-learn</th>
   </tr>
   <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-learn" width="55" height="55"/></td>
   </tr>
 </table>
 
-</div>
+<!-- Web Development -->
+<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
+  <tr align="center">
+    <th>React</th>
+    <th>Next.js</th>
+    <th>Flask</th>
+    <th>Tailwind CSS</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="55" height="55"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="55" height="55"/></td>
+  </tr>
+</table>
+
+<!-- Databases -->
+<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
+  <tr align="center">
+    <th>MySQL</th>
+    <th>PostgreSQL</th>
+    <th>MongoDB</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Post
+
 
 
 
