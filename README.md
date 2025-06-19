@@ -18,64 +18,6 @@
 </div>
 
 
-<div align="center" style="text-align: justify">
-
-𝐓𝐡𝐢𝐧𝐤. 𝐁𝐮𝐢𝐥𝐝. 𝐋𝐞𝐚𝐫𝐧.
-</div>
-
-
-<div align="center">
-  <h1>🚀 Tech Stack</h1>
-</div>
-
-<!-- Programming & AI/ML Libraries -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
-  <tr align="center">
-    <th>Python</th>
-    <th>TensorFlow</th>
-    <th>Keras</th>
-    <th>OpenCV</th>
-    <th>PyTorch</th>
-    <th>Scikit-learn</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-learn" width="55" height="55"/></td>
-  </tr>
-</table>
-
-<!-- Web Development -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
-  <tr align="center">
-    <th>React</th>
-    <th>Next.js</th>
-    <th>Flask</th>
-    <th>Tailwind CSS</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="55" height="55"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="55" height="55"/></td>
-  </tr>
-</table>
-
-<!-- Databases -->
-<table style="width: 100%; table-layout: fixed; margin-bottom: 1rem;">
-  <tr align="center">
-    <th>MySQL</th>
-    <th>PostgreSQL</th>
-    <th>MongoDB</th>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Post
-
-
 
 
 <div align="center">
