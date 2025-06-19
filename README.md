@@ -20,9 +20,9 @@
 
 <div align="center" style="text-align: justify">
 
-# About
-</div>
 Think. Build. Learn.
+</div>
+
 
 <div align="center">
  
