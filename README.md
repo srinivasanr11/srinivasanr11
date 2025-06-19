@@ -20,7 +20,7 @@
 
 <div align="center" style="text-align: justify">
 
-Think. Build. Learn.
+𝐓𝐡𝐢𝐧𝐤. 𝐁𝐮𝐢𝐥𝐝. 𝐋𝐞𝐚𝐫𝐧.
 </div>
 
 
