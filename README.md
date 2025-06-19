@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# 𝔸𝕀 @ 𝕄𝕃 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30px" />
+# AI @ ML Dҽʋҽʅσρҽɾ <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30px" />
 
 <img src="https://komarev.com/ghpvc/?username=srinivasanr11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
